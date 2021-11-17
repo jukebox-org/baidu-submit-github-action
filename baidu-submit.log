@@ -24,3 +24,16 @@ Submit ./urls-aa
                                  Dload  Upload   Total   Spent    Left  Speed
   0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0  3656    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  3684  100    28  100  3656     25   3351  0:00:01  0:00:01 --:--:--  3376
 {"remain":2903,"success":97}Done!
+
+===========================================
+Wed Nov 17 06:23:10 UTC 2021
+===========================================
+SITE_URL: https://jukebox.pipecraft.net
+SITEMAP_URL: https://jukebox.pipecraft.net/sitemap.xml
+Get sitemap https://jukebox.pipecraft.net/sitemap.xml
+
+Submit ./urls-aa
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  3684  100    28  100  3656     19   2490  0:00:01  0:00:01 --:--:--  2509
+{"remain":2903,"success":97}Done!
